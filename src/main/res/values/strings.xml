@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nepali Calculator</string>
+    <string name="zero">zero</string>
+    <string name="value">5*3</string>
+    <string name="output">15</string>
+</resources>
